@@ -34,10 +34,10 @@ Clone this repository to your local machine.
 
 Navigate to the cloned directory in your terminal.
 
-Run the heart_disease_prediction.py script using the following command:
+Run the LogisticHeartfinalproj.ipynb script using the following command:
 
 Copy code
-python heart_disease_prediction.py
+python LogisticHeartfinalproj.ipynb
 The script will generate a logistic regression model to predict the likelihood of heart disease based on the collected data.
 
 The script will also generate a decision tree and a random forest model, and compare their performance to the logistic regression model.
